@@ -1,18 +1,14 @@
-# 鍾偉樑｜文章及論文選集
-A selected library of public articles, commentary, papers and presentations by Andy W. L. Chung.
+# AC｜文章及論文選集
+
+本庫收錄 AC 在可持續發展、人工智能、智慧城市、創新、聲學及領導力等範疇的精選公開文章、評論、論文及演講資料。
 
 ## 2026
 
-### 可持續發展與AI時代下的新求職競爭力（二）
+| 編號 | 文章名稱 | 出版平台 | 發表日期 | 主題 | 連結 |
+|---|---|---|---|---|---|
+| 1 | 可持續發展與AI時代下的新求職競爭力（一） | 信報教育 | 2026年6月4日 | ESG、人工智能、可持續發展、青年就業、批判思考、智慧城市 | [閱讀原文](https://edu.hkej.com/php/article.detail.php?aid=64204) |
+| 2 | 可持續發展與AI時代下的新求職競爭力（二） | 信報教育 | 2026年7月2日 | 人工智能、可持續發展、職涯發展、青年就業、批判思考 | [閱讀原文](https://edu.hkej.com/php/article.detail.php?aid=64313) |
 
-**Publisher:** 信報教育  
-**Published:** 2 July 2026  
-**Topics:** AI, sustainability, careers, critical thinking  
+## 關於本庫
 
-[Read the original article](https://edu.hkej.com/php/article.detail.php?aid=64313)
-
----
-
-## About
-
-This library provides links to selected public writing and research across sustainability, AI, smart cities, innovation, acoustics and leadership.
+本庫僅作為公開發表作品的索引及連結整理。各文章、論文及圖片之版權，均歸原出版平台或權利持有人所有。
